@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: ghostwhite;
+    width : 80%;
+    margin-left: 3.5cm;
+    margin-right: 3.5cm;
+    padding : 0px;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+h2{
+    color: white;
+    background-color: grey;
+    text-align: left;
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 2px;;
+}
+
+p{
+    text-align:justify;
+    width: 80%;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    padding : 2px;
+}
+
+img {
+    float: left;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+em{
+    color: red;
+}
+
+strong{
+    background-color: white;
+}
+
+
+
+
